@@ -1,0 +1,433 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5443
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 799.3703149606299121 Td
+(issue: Document DraftUtils in official API reference) Tj
+T* (URL: https://github.com/springload/draftail/issues/446) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 756.8506299212598378 Td
+(issue: Need help integrating @draft-js-plugins/mention) Tj
+T* (URL: https://github.com/springload/draftail/issues/440) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 714.3309448818897636 Td
+(issue: Support full aria controls provided by draftJS) Tj
+T* (URL: https://github.com/springload/draftail/issues/436) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 671.8112598425196893 Td
+(issue: Plugin handlePastedText doesn't get called when setting stripPastedStyles=false) Tj
+T* (URL: https://github.com/springload/draftail/issues/435) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 629.291574803149615 Td
+(issue: Checkbox plugin: Editing the text on the line, most of the characters get deleted, after checkbox is ticked.) Tj
+T* (URL: https://github.com/springload/draftail/issues/426) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 586.7718897637794271 Td
+(issue: Content-state is not updated during typing korean ) Tj
+T* (URL: https://github.com/springload/draftail/issues/405) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 544.2522047244094665 Td
+(issue: Using Draftail with Rollup) Tj
+T* (URL: https://github.com/springload/draftail/issues/399) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 501.7325196850393354 Td
+(issue: Horizontal text alignment ) Tj
+T* (URL: https://github.com/springload/draftail/issues/395) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 459.2128346456692611 Td
+(issue: Typescript support) Tj
+T* (URL: https://github.com/springload/draftail/issues/388) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 416.69314960629913 Td
+(issue: No way to add an asterisk without transforming it to a list) Tj
+T* (URL: https://github.com/springload/draftail/issues/383) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 374.1734645669290558 Td
+(issue: Some letters cannot be entered) Tj
+T* (URL: https://github.com/springload/draftail/issues/260) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 331.6537795275589815 Td
+(issue: Support & upgrade draft-js to 0.11.x) Tj
+T* (URL: https://github.com/springload/draftail/issues/213) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 289.1340944881889072 Td
+(issue: Allow mixing UL and OL when nesting) Tj
+T* (URL: https://github.com/springload/draftail/issues/209) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 246.614409448818833 Td
+(issue: Nested ordered \(numbered\) lists use the same numerals at each level) Tj
+T* (URL: https://github.com/springload/draftail/issues/202) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 204.0947244094487587 Td
+(issue: BUG: Pasting subscript and superscript from Word removes the formatting, even when they are enabled) Tj
+T* (URL: https://github.com/springload/draftail/issues/200) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 161.5750393700786844 Td
+(issue: Table support) Tj
+T* (URL: https://github.com/springload/draftail/issues/198) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 119.0553543307086102 Td
+(issue: Text drag-and-drop in a non-Draftail field breaks the editor) Tj
+T* (URL: https://github.com/springload/draftail/issues/194) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 76.5356692913385359 Td
+(issue: Support atomic blocks \(images, embeds, hr, etc\) without wrapper text blocks) Tj
+T* (URL: https://github.com/springload/draftail/issues/158) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 34.0159842519684616 Td
+(issue: [a11y] Draftail toolbar buttons can not be selected/focused using keyboard) Tj
+T* (URL: https://github.com/springload/draftail/issues/149) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -8.5037007874017263 Td
+(issue: Undoing "remove" on an atomic block restores the selection in the wrong location) Tj
+T* (URL: https://github.com/springload/draftail/issues/141) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -51.0233858267718006 Td
+(issue: Known issues with Draftail, Draft.js, contenteditable, and other dependencies) Tj
+T* (URL: https://github.com/springload/draftail/issues/138) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -93.5430708661418748 Td
+(issue: Add support for emojis) Tj
+T* (URL: https://github.com/springload/draftail/issues/118) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -136.0627559055119491 Td
+(issue: Add drag and drop image insertion) Tj
+T* (URL: https://github.com/springload/draftail/issues/117) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -178.5824409448820234 Td
+(issue: Add character replacements for typing convenience & typographic correctness) Tj
+T* (URL: https://github.com/springload/draftail/issues/113) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -221.1021259842519839 Td
+(issue: Add example of a shortcut button for indentation / unindentation) Tj
+T* (URL: https://github.com/springload/draftail/issues/111) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210619033859+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000005647 00000 n 
+0000007464 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005704 00000 n 
+0000005829 00000 n 
+0000005959 00000 n 
+0000006092 00000 n 
+0000006229 00000 n 
+0000006352 00000 n 
+0000006481 00000 n 
+0000006613 00000 n 
+0000006749 00000 n 
+0000006877 00000 n 
+0000007004 00000 n 
+0000007133 00000 n 
+0000007266 00000 n 
+0000007368 00000 n 
+0000007712 00000 n 
+0000007798 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <12C5CB74F7FDC9F887AD7BEF275377B1> <12C5CB74F7FDC9F887AD7BEF275377B1> ]
+>>
+startxref
+7902
+%%EOF

@@ -1,0 +1,433 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5908
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 799.3703149606299121 Td
+(issue: [v5][LoadingButton] Disabled loading button text is sometimes transparent) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26833) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 756.8506299212598378 Td
+(issue: [StepIcon] Cannot customize StepIcon via rule name for style override) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26830) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 714.3309448818897636 Td
+(issue: Please support a "variant" prop for all components! \(default is fine\)) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26829) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 671.8112598425196893 Td
+(issue: Grid List compatibility error with Image List) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26827) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 629.291574803149615 Td
+(issue:  [next][lab] typescript fails due two LoadingButtonClassKey exports) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26826) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 586.7718897637794271 Td
+(issue: makeStyles: Styles are not being overridden if the original style is declared with a function) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26823) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 544.2522047244094665 Td
+(issue: Pressing escape on an open MUI native select component will also close the dialog it is rendered in when running VoiceOver Screen Reader) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26822) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 501.7325196850393354 Td
+(issue: [Theme] psuedo class overridden in slot) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26813) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 459.2128346456692611 Td
+(issue: [typescript] Better type annotations for unstyled components and componentsProps props) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26810) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 416.69314960629913 Td
+(issue: Unable to get property 'tagName' of undefined or null reference) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26809) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 374.1734645669290558 Td
+(issue: Backdrop with style override active on Basic Popover. Version 5.0.0-alpha) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26806) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 331.6537795275589815 Td
+(issue: [docs] Incorrect instructions to install svg icons) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26804) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 289.1340944881889072 Td
+(issue: When changing only the time of a TimePicker using the keyboard, the date also changes to today's date. Version 5.0.0-alpha) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26799) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 246.614409448818833 Td
+(issue: [Dialog] DialogTitle overrides DialogContent className) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26795) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 204.0947244094487587 Td
+(issue: [Select] Keyboard navigation does not work if the first child is a ListSubheader ) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26790) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 161.5750393700786844 Td
+(issue: RTL not working properly) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26788) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 119.0553543307086102 Td
+(issue: TextField it does not contain all the text of the label) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26781) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 76.5356692913385359 Td
+(issue: When count prop \(in TablePagination from materialUI\), is given a value of -1, it results in a console warning.) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26779) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 34.0159842519684616 Td
+(issue: [DatePicker] How to style the popper/dialog with styled \(emotion\)?) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26767) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -8.5037007874017263 Td
+(issue: [NoSsr] Investigate better alternatives in React 18) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26763) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -51.0233858267718006 Td
+(issue: make styles does not apply after refreshing dynamic page ) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26759) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -93.5430708661418748 Td
+(issue: [SliderUnstyled] TypeError Cannot read property 'getBoundingClientRect' of null) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26754) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -136.0627559055119491 Td
+(issue: MonthPicker: React does not recognize the [disableMaskedInput|inputFormat|renderInput] prop on a DOM element) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26739) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -178.5824409448820234 Td
+(issue: Icon for Google) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26737) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -221.1021259842519839 Td
+(issue: Long pressing a button on mobile causes neighbouring text to be selected) Tj
+T* (URL: https://github.com/mui-org/material-ui/issues/26735) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210619033858+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000006112 00000 n 
+0000007929 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000006169 00000 n 
+0000006294 00000 n 
+0000006424 00000 n 
+0000006557 00000 n 
+0000006694 00000 n 
+0000006817 00000 n 
+0000006946 00000 n 
+0000007078 00000 n 
+0000007214 00000 n 
+0000007342 00000 n 
+0000007469 00000 n 
+0000007598 00000 n 
+0000007731 00000 n 
+0000007833 00000 n 
+0000008177 00000 n 
+0000008263 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <32FD2DC30E30EF31B5A40C5D9B2D7522> <32FD2DC30E30EF31B5A40C5D9B2D7522> ]
+>>
+startxref
+8367
+%%EOF

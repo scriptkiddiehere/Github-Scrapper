@@ -1,0 +1,433 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5525
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 799.3703149606299121 Td
+(issue: next/script using beforeInteractive strategy don't work with alert) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26343) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 756.8506299212598378 Td
+(issue: next/script is not loading when navigating between pages) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26342) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 714.3309448818897636 Td
+(issue: I'm still getting error from **getStaticProps**) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26341) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 671.8112598425196893 Td
+(issue: [examples/with-redux-wrapper] doesn't work with "next-redux-wrapper": "7.0.2") Tj
+T* (URL: https://github.com/vercel/next.js/issues/26338) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 629.291574803149615 Td
+(issue: TypeError: Cannot read property 'theme' of undefined) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26337) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 586.7718897637794271 Td
+(issue: [Next.js 11] Babel config is not loaded from package.json) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26334) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 544.2522047244094665 Td
+(issue: Importing Link from next/link is adding 74kbs to my file size) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26332) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 501.7325196850393354 Td
+(issue: no-html-link-for-pages eslint rule uses cwd instead of project directory) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26330) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 459.2128346456692611 Td
+(issue: Random high latency for API calls) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26329) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 416.69314960629913 Td
+(issue: route rewrite does a full reload \(not SPA\)) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26324) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 374.1734645669290558 Td
+(issue: eslint-config-next fetch is not defined ) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26319) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 331.6537795275589815 Td
+(issue: Blurred image not positioned correctly when using object-position) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26309) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 289.1340944881889072 Td
+(issue: Bootstrap Class not working properly on next.js <Image> element) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26303) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 246.614409448818833 Td
+(issue: serverless functions not standalone as claimed) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26297) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 204.0947244094487587 Td
+(issue: next/image imagix breaks querystrings) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26288) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 161.5750393700786844 Td
+(issue: eslint next 11 Parsing error: Cannot read file) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26287) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 119.0553543307086102 Td
+(issue: Incorrect docs example on Custom App and App.getInitialProps behaviour) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26282) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 76.5356692913385359 Td
+(issue: Query param breaks JSS SSR without getStaticProps) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26275) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 34.0159842519684616 Td
+(issue: eslint with nextjs 11 not working when following official blog) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26265) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -8.5037007874017263 Td
+(issue: useEffect not called in SSR components in production) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26254) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -51.0233858267718006 Td
+(issue: Encountered issue when compiling on next dev - RangeError: Array buffer allocation failed) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26246) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -93.5430708661418748 Td
+(issue: Polyfill is not a function. \(In 'getPolyfill\(\)', 'getPolyfill' is an instance of Object\)) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26244) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -136.0627559055119491 Td
+(issue: Script with "beforeInteractive" strategy and innerHTML rendered incorrectly.) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26240) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -178.5824409448820234 Td
+(issue: Custom attributes like repo on Next/Script for using Utterances gives TypeScript error) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26236) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -221.1021259842519839 Td
+(issue: No router instance found after working on a different React project) Tj
+T* (URL: https://github.com/vercel/next.js/issues/26234) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210619033858+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000005729 00000 n 
+0000007546 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005786 00000 n 
+0000005911 00000 n 
+0000006041 00000 n 
+0000006174 00000 n 
+0000006311 00000 n 
+0000006434 00000 n 
+0000006563 00000 n 
+0000006695 00000 n 
+0000006831 00000 n 
+0000006959 00000 n 
+0000007086 00000 n 
+0000007215 00000 n 
+0000007348 00000 n 
+0000007450 00000 n 
+0000007794 00000 n 
+0000007880 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <0F2D4585ADFD45D99284D7E6BAE9FEBC> <0F2D4585ADFD45D99284D7E6BAE9FEBC> ]
+>>
+startxref
+7984
+%%EOF

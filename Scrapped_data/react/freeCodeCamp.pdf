@@ -1,0 +1,433 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5609
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 799.3703149606299121 Td
+(issue: Cross Platform testing) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42541) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 756.8506299212598378 Td
+(issue: Adding cypress tests for hotkeys) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42528) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 714.3309448818897636 Td
+(issue: Relational Databases Cert to do list) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42509) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 671.8112598425196893 Td
+(issue: Change cert name to "Front End Development Libraries" on settings page) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42502) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 629.291574803149615 Td
+(issue: bug: Curriculum test regex does not cover some code formats) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42473) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 586.7718897637794271 Td
+(issue: Translation: backticked strings loose spaces at the end) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42455) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 544.2522047244094665 Td
+(issue: Rename APIs and Microservices to include "Backend") Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42444) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 501.7325196850393354 Td
+(issue: Discussion Regarding Backticks and Translations) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42421) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 459.2128346456692611 Td
+(issue: Editor - Ability to detect when a screen reader is running) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42396) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 416.69314960629913 Td
+(issue: CSSHelp Features and Bugs) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42373) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 374.1734645669290558 Td
+(issue: Bad example in Applied Accessibility/Use tabindex to Add Keyboard Focus to an Element) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42311) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 331.6537795275589815 Td
+(issue: Remove or Update: Applied Accessibility/Use tabindex to Specify the Order of Keyboard Focus for Several Elements) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42304) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 289.1340944881889072 Td
+(issue: Moment.js is considered a legacy package and should be replaced with a recommended substitute) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42294) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 246.614409448818833 Td
+(issue: Scientific Computing with Python: Probability Calculator: improving test_hat_draw) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42275) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 204.0947244094487587 Td
+(issue: TypeScript migration) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42256) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 161.5750393700786844 Td
+(issue: Improve the accessibility of Code Radio app) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42236) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 119.0553543307086102 Td
+(issue: Use react testing library plugins and associated eslint plugins in the client) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42229) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 76.5356692913385359 Td
+(issue: Create a separate warning if the server is unreachable) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42203) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 34.0159842519684616 Td
+(issue: Add color tokens to tailwind config file) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42186) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -8.5037007874017263 Td
+(issue: Can we change the hint links of Chinese curriculum to English posts?) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42175) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -51.0233858267718006 Td
+(issue: Caching static assets) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42107) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -93.5430708661418748 Td
+(issue: Dependency Dashboard) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/42030) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -136.0627559055119491 Td
+(issue: Bug: uBlock Origin breaks certain javascript challenges) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/41995) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -178.5824409448820234 Td
+(issue: Tests for curriculum helpers) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/41994) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -221.1021259842519839 Td
+(issue: Replace Selenium with Cypress in the testable-projects-fcc Repo) Tj
+T* (URL: https://github.com/freeCodeCamp/freeCodeCamp/issues/41967) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210619033859+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000005813 00000 n 
+0000007630 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005870 00000 n 
+0000005995 00000 n 
+0000006125 00000 n 
+0000006258 00000 n 
+0000006395 00000 n 
+0000006518 00000 n 
+0000006647 00000 n 
+0000006779 00000 n 
+0000006915 00000 n 
+0000007043 00000 n 
+0000007170 00000 n 
+0000007299 00000 n 
+0000007432 00000 n 
+0000007534 00000 n 
+0000007878 00000 n 
+0000007964 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <D986E12ED7C0FCFC2A4D6D03EAB07D99> <D986E12ED7C0FCFC2A4D6D03EAB07D99> ]
+>>
+startxref
+8068
+%%EOF
